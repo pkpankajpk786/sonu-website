@@ -1,1 +1,2 @@
 this is git push test file
+fix the bug
